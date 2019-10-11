@@ -1,0 +1,6 @@
+行 16: 控件 SbMain 的类 ComctlLib.StatusBar 不是一个已加载的控件类。
+行 23: 属性名 _ExtentX 在 SbMain 中是无效的。
+行 24: 属性名 _ExtentY 在 SbMain 中是无效的。
+行 25: 属性名 SimpleText 在 SbMain 中是无效的。
+行 26: 属性名 _Version 在 SbMain 中是无效的。
+行 46: 属性名 Panels 在 SbMain 中是无效的。
